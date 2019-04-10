@@ -204,11 +204,11 @@ background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, F
 
 
     .footer {
-        background: transparent;
+        background: #061D25;
         padding: 10px 0;
       }
       .footer a {
-        color: white;
+        color: #70726F;
         font-size: 20px;
         padding: 10px;
         border-right: 1px solid #70726F;
