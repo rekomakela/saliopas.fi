@@ -140,8 +140,10 @@ ol { display:table; margin:0 auto;}
     .navbar-brand
         {
             position: absolute;
-            left: 50%;
-            transform: translateX(-50%);
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
         }
     }
 
