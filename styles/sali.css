@@ -206,6 +206,7 @@ background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, F
         .btn {
           display: block;
           width: 100%;
+          margin-bottom:15px;
         }
       }
 
