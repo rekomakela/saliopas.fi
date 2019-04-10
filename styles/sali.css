@@ -30,7 +30,7 @@
 }
 
 .titleblack{
-    font-size:55px;
+    font-size:5vw;
     color:black;
     font-family: Montserrat;
     text-align:center;
@@ -210,4 +210,13 @@ background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, F
         }
       }
 
+
+      .col-lg-12 {
+          border:2px solid red;
+          margin-top:15px;
+      }
     
+      .kysymys {
+        width:100%;
+        margin-bottom:15px;
+      }
