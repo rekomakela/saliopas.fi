@@ -1,0 +1,207 @@
+
+.container {
+    
+    margin: 0 auto;
+    text-align:center;
+    font-family: Work Sans;
+    
+}
+
+.col-lg-6 {
+    font-family: Work Sans;
+    font-size: 18px;
+    color:white;
+    font-weight: 700;
+}
+
+
+.ohjelma {
+    font-family: Work Sans;
+    font-weight: bold;
+    color:white;
+    font-size:14px;
+    text-transform: uppercase;
+}
+
+.title {
+    font-size: 45px;
+    color:white;
+    font-family: Montserrat;
+}
+
+.titleblack{
+    font-size:55px;
+    color:black;
+    font-family: Montserrat;
+    text-align:center;
+    margin-top: 20px;
+    font-weight:bold;
+    
+}
+
+.container-fluid {
+    margin-top: 25px;
+    padding-right: 100px;
+}
+
+#header1 {
+    width: 50%;
+}
+
+.thumbnail:hover {
+    opacity: 0.8;
+    filter: alpha(opacity=50);}
+
+#title {
+    text-align:center;
+    font-family: Montserrat;
+    font-style: italic;
+}
+
+.jargon {
+    text-align: center;
+    font-family: Work Sans;
+    font-weight: bold;
+    font-size:16px;
+}
+
+.table {
+    border:2px solid black;
+    margin-top:20px;
+}
+
+h1 {
+    font-family: Montserrat;
+}
+h4 {
+    text-align: center;
+    font-family: Montserrat;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    
+}
+
+ol { display:table; margin:0 auto;}
+
+.table-sm {
+    margin: 0 auto;
+}
+
+.etusivu {
+    margin-top:220px;
+    color:whitesmoke;
+    text-align:center;
+    font-size:8vw;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    word-wrap: break-word;
+     -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+     -ms-hyphens: auto;
+     -o-hyphens: auto;
+     hyphens: auto;
+     font-weight: 700;
+}
+
+
+
+
+.bg { 
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(https://cdn.pixabay.com/photo/2017/01/09/11/30/dumbbell-1966247_1280.jpg);
+    
+  }
+
+ .white {
+     font-family: Montserrat;
+     color:white;
+     
+     text-align: center;
+     margin-top:20px;
+     font-weight: 700;
+     
+ }
+
+ .info {
+     color:white;
+     font-family: Work Sans;
+     font-size:16px;
+     font-weight: 300;
+     text-align:center;
+ }
+
+ .infoblack {
+    color:black;
+    font-family: Work Sans;
+    font-size:16px;
+    font-weight: 300;
+    text-align:center;
+}
+
+ @media (min-width: 768px) {
+    .navbar-brand
+        {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+    }
+
+    .brandi {
+        margin-top:18px;
+    }
+
+    .footer {
+        position: static;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: black;
+        color: white;
+        text-align: center;
+        height:125px;
+      }
+
+      .saliohjelma {
+        background: #ECE9E6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+        
+
+          
+      }
+.nav-item {
+    list-style-type: none;
+          font-family: Montserrat;
+          text-transform: uppercase;
+          font-weight: bold;
+}
+    
+
+      .testi {
+          
+          width:45%;
+          margin: 0 auto;
+          height:100px;
+
+            
+      }
+
+      .carousel-caption {
+          font-weight: 700;
+      }
+
+      .btn {
+          text-transform: uppercase;
+      }
+      ul {
+        text-align: center;
+        list-style: none;
+    }
+
+    .mustareuna {
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    }
+
+    .banneri {
+        margin-top: 25px;
+    }
