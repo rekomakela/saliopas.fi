@@ -146,7 +146,7 @@ ol { display:table; margin:0 auto;}
     }
 
     .brandi {
-        margin-top:-75px;
+        margin-top:20px;
     }
 
     
@@ -203,20 +203,4 @@ background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, F
     }
 
 
-    .footer {
-        background: #061D25;
-        padding: 10px 0;
-      }
-      .footer a {
-        color: #70726F;
-        font-size: 20px;
-        padding: 10px;
-        border-right: 1px solid #70726F;
-        transition: all .5s ease;
-      }
-      .footer a:first-child {
-        border-left: 1px solid #70726F;
-      }
-      .footer a:hover {
-        color: white;
-      }
+    
