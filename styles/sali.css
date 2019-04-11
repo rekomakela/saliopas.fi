@@ -145,10 +145,6 @@ ol { display:table; margin:0 auto;}
         }
     }
 
-    .brandi {
-        margin-top:10px;
-    }
-
     
 
       .saliohjelma {
@@ -219,4 +215,8 @@ background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, F
       .kysymys {
         width:100%;
         margin-bottom:15px;
+      }
+
+      .mustaborder {
+          border-bottom:1.1px solid black;
       }
