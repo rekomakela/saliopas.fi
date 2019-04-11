@@ -99,7 +99,8 @@ ol { display:table; margin:0 auto;}
      -ms-hyphens: auto;
      -o-hyphens: auto;
      hyphens: auto;
-     font-weight: 700;
+     font-weight: bold;
+     text-shadow: 2px 0 black, 0 2px black, 2px 0 black, 0 2px black;
 }
 
 
